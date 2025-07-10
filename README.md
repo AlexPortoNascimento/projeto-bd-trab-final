@@ -2,7 +2,7 @@
 
 Este projeto é um banco de dados relacional completo desenvolvido em PostgreSQL. Foi criado com o objetivo de realizar o trabalho final da disciplina TCC00335 - Projeto de Banco de Dados, do curso de Bacharelado Sistemas de Informação da Universidade Federal Fluminense - UFF, com tema livre.
 
-O tema escolhido foi "Controle de Campanha de RPG", inspirado pela campanha Máscaras de Nyerlathotep do sistema Chamado de Cthulhu - 7ª edição.
+O tema escolhido foi "Controle de Campanha de RPG", inspirado pela campanha Máscaras de Nyerlathotep do sistema de regras Chamado de Cthulhu - 7ª edição.
 
 ---
 
