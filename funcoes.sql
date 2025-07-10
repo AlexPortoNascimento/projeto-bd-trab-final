@@ -36,10 +36,7 @@ SELECT define_classe_social('Claire');
 --Criar um tabela que mostra as magias poderosas de um personagem escolhido.
 --Recebe como parâmetros o nome do personagem e o nível mínimo desejado de magia. Retorna uma tabela baseada na query onde ocorrem junções das tabelas item, livro, livroPossuiMagia e magia.
 
-CREATE OR REPLACE FUNCTION listar_magias_poderosas_por_personagem(
-    personagem_nome VARCHAR,
-    custo_minimo INTEGER
-)
+CREATE OR REPLACE FUNCTION listar_magias_poderosas_por_personagem(personagem_nome VARCHAR, custo_minimo INTEGER)
 RETURNS TABLE (
     nome_magia VARCHAR,
     descricao TEXT,
