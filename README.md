@@ -16,7 +16,7 @@ O tema escolhido foi "Controle de Campanha de RPG", inspirado pela campanha Más
 
 ---
 
-## 🧩 Estrutura do Banco
+## Estrutura do Banco
 
 O banco utiliza o schema `ControleCampanhaRPG`, contendo as seguintes principais entidades:
 
@@ -29,9 +29,9 @@ O banco utiliza o schema `ControleCampanhaRPG`, contendo as seguintes principais
 
 ---
 
-## ⚙️ Recursos Avançados
+## Recursos Avançados
 
-### 🔁 Triggers
+### Triggers
 
 - **`trg_personagem_sanidade_zero`**  
   Insere automaticamente um sepultamento quando a sanidade de um personagem cai a 0.
