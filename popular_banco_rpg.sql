@@ -1,3 +1,5 @@
+--Script criado por IA para popular as tabelas para testar a criação de consultas
+
 INSERT INTO jogador VALUES ('11111111111', 'Alice');
 INSERT INTO jogador VALUES ('22222222222', 'Bob');
 INSERT INTO jogador VALUES ('33333333333', 'Carla');
