@@ -39,7 +39,7 @@ O banco utiliza o schema `ControleCampanhaRPG`, contendo as seguintes principais
 - **`trg_atualiza_classificacao_credito`**  
   Atualiza a classificação de crédito com base no nível e patrimônio.
 
-### 🔎 Views
+### Views
 
 - **`vw_personagens_ativos_com_credito_detalhado`**  
   Lista os personagens vivos com todos os atributos, status de sanidade e média dos atributos.
@@ -47,7 +47,7 @@ O banco utiliza o schema `ControleCampanhaRPG`, contendo as seguintes principais
 - **`vw_historico_combates_detalhado`**  
   Mostra todos os combates com NPCs, personagens, local, grupo envolvido e tipo de participante.
 
-### 🧠 Funções
+### Funções
 
 - `define_classe_social(nivel, patrimonio)`  
   Retorna a classificação econômica do personagem.
@@ -65,7 +65,7 @@ O banco utiliza o schema `ControleCampanhaRPG`, contendo as seguintes principais
   Retorna o número de combates de que determinado NPC participou.
 ---
 
-## 📊 Exemplos de Consultas
+## Exemplos de Consultas
 
 - Listar todos os personagens com sanidade crítica.
 - Ver histórico de combates envolvendo um determinado grupo de NPCs.
@@ -73,7 +73,7 @@ O banco utiliza o schema `ControleCampanhaRPG`, contendo as seguintes principais
 
 ---
 
-## 🚀 Como Usar
+## Como Usar
 
 1. Clone este repositório
 2. Configure um banco PostgreSQL com o schema `ControleCampanhaRPG`
